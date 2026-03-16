@@ -3,11 +3,24 @@ Hi there! I'm Aravind Muthiah M 👋<br><br>🚀 Frontend Developer<br>🎓 B.Te
 
 ---
 # 📑 Contents
-- [Hi, I'm Aravind!](#-about-me)  
+- [Hi, I'm Aravind!](#-about-me)
+- [Work Experience](#-Work-Experience)
 - [Certifications](#-certifications)  
 - [Projects](#-projects)  
 - [Languages and Tools](#-tech-stack)  
 - [Connect With Me](#-socials)
+
+---
+## 💼 Work Experience
+
+### Chief Executive Officer (CEO)
+
+**Dexlora Innovations**
+Jan 2026 – Present
+
+* Leading development of websites, applications, and software solutions.
+* Managing projects and coordinating the development team.
+  
 ---
 
 ## 📜 Certifications  

@@ -26,7 +26,7 @@ Jan 2026 – Present
 ## 📜 Certifications  
 | Certificate Name | Issuing Organization | Link |
 |------------------|-----------------------|------|
-|Oracle Certified Java SE 17 Developer|Oracle|[Certificate]((https://drive.google.com/file/d/1HuOkCocgWbei7AeY0bLL03VnJ9e_uriV/view?usp=sharing))|
+|Oracle Certified Java SE 17 Developer|Oracle|[Certificate](https://drive.google.com/file/d/1HuOkCocgWbei7AeY0bLL03VnJ9e_uriV/view?usp=sharing)|
 |NPTEL Certification – Internet of Things (IoT)| IIT Kharagpur|[Certificate](https://drive.google.com/file/d/12JpDXeyf35XIw2vwqLxsSW9PDtF4Qz-j/view?usp=sharing)|
 
 ---
